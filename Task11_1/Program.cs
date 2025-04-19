@@ -13,8 +13,8 @@
 
             //Использование полиморфизма
             foreach (var animal in animals)
-            { 
-            animal.ShowInfo();
+            {
+                animal.ShowInfo();
             }
 
             Console.ReadLine();
